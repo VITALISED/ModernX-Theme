@@ -3724,6 +3724,14 @@ body.foldercontentopened .base-2jDfDU {
     display: none
 }
 
+.wrapper-3HVHpV {
+    display: none !important
+}
+
+.wrapper-15CKyy {
+    display: none !important
+}
+
 :root {
     --control-area-bottom-margin: var(--text-area-bottom-margin)
 }
