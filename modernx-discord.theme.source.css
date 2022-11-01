@@ -3724,13 +3724,13 @@ body.foldercontentopened .base-2jDfDU {
     display: none
 }
 
-.wrapper-3HVHpV {
+/* .wrapper-3HVHpV {
     display: none !important
 }
 
 .wrapper-15CKyy {
     display: none !important
-}
+} */
 
 :root {
     --control-area-bottom-margin: var(--text-area-bottom-margin)
@@ -5865,7 +5865,7 @@ html:hover~.app-3xd6d0 .topControls-23RE3h {
 
 [class*=cozyMessage-] {
     margin-left: var(--chat-side-margin);
-    margin-right: var(--chat-side-margin)
+    margin-right: var(--chat-side-margin);
 }
 
 .channelTextArea-1FufC0.channelTextArea-1VQBuV {
