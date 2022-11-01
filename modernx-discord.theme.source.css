@@ -5864,6 +5864,7 @@ html:hover~.app-3xd6d0 .topControls-23RE3h {
 }
 
 [class*=cozyMessage-] {
+    display: none;
     margin-left: var(--chat-side-margin);
     margin-right: var(--chat-side-margin);
 }
