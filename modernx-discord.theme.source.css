@@ -1904,7 +1904,7 @@ body.foldercontentopened .base-2jDfDU {
 
 .StatusEverywhere-avatar-userPopout {
     background: 0 0 !important;
-    border: none !important
+    border: none !important;
 }
 
 .pointer-5RhfHK {
@@ -5863,13 +5863,13 @@ html:hover~.app-3xd6d0 .topControls-23RE3h {
     background: var(--background-tertiary)
 }
 
-[class*=cozyMessage-] {
+/* [class*=cozyMessage-] {
     margin-left: var(--chat-side-margin);
-    margin-right: var(--chat-side-margin);
-}
+    margin-right: var(--chat-side-margin)
+} */
 
 
-.channelTextArea-1FufC0.channelTextArea-1VQBuV {
+/* .channelTextArea-1FufC0.channelTextArea-1VQBuV {
     border-radius: 0
 }
 
@@ -5885,7 +5885,7 @@ html:hover~.app-3xd6d0 .topControls-23RE3h {
 .channelTextArea-1FufC0 .scrollableContainer-15eg7h {
     background: var(--background-secondary);
     border-radius: 22px
-}
+} */
 
 .form-3gdLxP:before {
     display: none
